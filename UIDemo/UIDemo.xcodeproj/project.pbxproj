@@ -13,6 +13,7 @@
 		E8539F262296FC4400E870C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8539F252296FC4400E870C5 /* Assets.xcassets */; };
 		E8539F292296FC4400E870C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8539F272296FC4400E870C5 /* LaunchScreen.storyboard */; };
 		E8539F2C2296FC4400E870C5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E8539F2B2296FC4400E870C5 /* main.m */; };
+		E8539F3C2297012500E870C5 /* TestUIButtonController.m in Sources */ = {isa = PBXBuildFile; fileRef = E8539F3B2297012500E870C5 /* TestUIButtonController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		E8539F282296FC4400E870C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E8539F2A2296FC4400E870C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E8539F2B2296FC4400E870C5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E8539F3A2297012500E870C5 /* TestUIButtonController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestUIButtonController.h; sourceTree = "<group>"; };
+		E8539F3B2297012500E870C5 /* TestUIButtonController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestUIButtonController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				E8539F272296FC4400E870C5 /* LaunchScreen.storyboard */,
 				E8539F2A2296FC4400E870C5 /* Info.plist */,
 				E8539F2B2296FC4400E870C5 /* main.m */,
+				E8539F3A2297012500E870C5 /* TestUIButtonController.h */,
+				E8539F3B2297012500E870C5 /* TestUIButtonController.m */,
 			);
 			path = UIDemo;
 			sourceTree = "<group>";
@@ -144,6 +149,7 @@
 				E8539F212296FC4300E870C5 /* ViewController.m in Sources */,
 				E8539F2C2296FC4400E870C5 /* main.m in Sources */,
 				E8539F1E2296FC4300E870C5 /* AppDelegate.m in Sources */,
+				E8539F3C2297012500E870C5 /* TestUIButtonController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
